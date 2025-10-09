@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kareem-omran02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <h1 align="center">Hi, I'm Kareem Omran</h1>
 <h3 align="center">Penetration Tester | Cybersecurity Enthusiast</h3>
@@ -7,10 +9,8 @@
   <b>Follow to get New Updates 🔔</b>
 </p>
 
----
-
 ### 📄 My CV & Portfolio  
-<p align="left">
+<p align="center">
   <a href="https://github.com/kareem-omran02" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
@@ -19,10 +19,8 @@
   </a>
 </p>
 
----
-
 ### 🤝 Connect & CTF Profiles  
-<p align="left">
+<p align="center">
   <a href="https://www.hackthebox.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   </a>
@@ -43,10 +41,7 @@
   </a>
 </p>
 
----
-
 ### 💻 Top Technical Skills  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -56,42 +51,28 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
----
-
 ### 🛡️ Security Tools  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
----
-
 ### 🏆 GitHub Trophies  
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kareem-omran02&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
----
-
 ### 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kareem-omran02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-omran02&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
----
-
 ### 💬 Most Used Languages  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-omran02&layout=compact&theme=tokyonight" height="150" />
 </p>
-
----
 
 ### 🔗 Connect with Me  
 <p align="center">
@@ -105,8 +86,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <em>⭐ Always Learning — Always Hacking Ethically ⚔️</em>
