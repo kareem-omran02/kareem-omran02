@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareem-omran02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 <h1 align="center">Hi, I'm Kareem Omran</h1>
 <h3 align="center">Penetration Tester | Cybersecurity Enthusiast</h3>
@@ -12,7 +10,7 @@
 ---
 
 ### 📄 My CV & Portfolio  
-<p align="center">
+<p align="left">
   <a href="https://github.com/kareem-omran02" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
@@ -24,7 +22,7 @@
 ---
 
 ### 🤝 Connect & CTF Profiles  
-<p align="center">
+<p align="left">
   <a href="https://www.hackthebox.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   </a>
