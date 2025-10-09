@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareem-omran02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 <h1 align="center">Hi, I'm Kareem Omran</h1>
 <h3 align="center">Penetration Tester | Cybersecurity Enthusiast</h3>
@@ -10,7 +8,7 @@
 </p>
 
 ### 📄 My CV & Portfolio  
-<p align="center">
+<p align="left">
   <a href="https://github.com/kareem-omran02" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
@@ -20,7 +18,7 @@
 </p>
 
 ### 🤝 Connect & CTF Profiles  
-<p align="center">
+<p align="left">
   <a href="https://www.hackthebox.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   </a>
@@ -42,7 +40,7 @@
 </p>
 
 ### 💻 Top Technical Skills  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -52,14 +50,14 @@
 </p>
 
 ### 🛡️ Security Tools  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
 ### 🏆 GitHub Trophies  
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=kareem-omran02&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
