@@ -9,7 +9,7 @@
 
 ### 📄 My CV & Portfolio  
 <p align="left">
- <a href="https://github.com/kareem-omran02/kareem-omran02/raw/main/kareemomran.pdf" target="_blank" rel="noopener noreferrer">
+ <a href="./kareemomran.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
 </a>
 
