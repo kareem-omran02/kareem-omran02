@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Kareem Omran</h1>
-<h3 align="center">Penetration Tester | Cybersecurity Enthusiast</h3>
+<h3 align="center">Penetration Tester | Network Security Engineer</h3>
 
 <p align="center">
   <b>Follow to get New Updates 🔔</b>
@@ -9,7 +9,7 @@
 
 ### 📄 My CV & Portfolio  
 <p align="left">
-  <a href="https://github.com/kareem-omran02" target="_blank">
+  <a href="./kareemomran.pdf" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
   <a href="https://kareem-omran02.github.io" target="_blank">
