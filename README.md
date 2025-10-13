@@ -9,9 +9,9 @@
 
 ### 📄 My CV & Portfolio  
 <p align="left">
-  <a href="./kareemomran.pdf" target="_blank">
+  <a href="./kareemomran.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
-  </a>
+</a>
   <a href="https://kareem-omran02.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-9FEF00?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" />
   </a>
