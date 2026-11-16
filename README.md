@@ -42,4 +42,52 @@
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   </a>
   <a href="https://bugcrowd.com" target="_blank">
-    <img src="https://img.shields.io/badge/Bugcrowd-F
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  </a>
+  <a href="https://www.hackerone.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
+  <a href="https://snyk.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  </a>
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+</p>
+
+### 💻 Top Technical Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### 🛡️ Security Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-339933?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JohnTheRipper-000000?style=for-the-badge&logo=johntheripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-7AD03A?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+### 🔗 Connect with Me  
+<p align="center">
+  <a href="mailto:kareem.omran@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kareem-omran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>⭐ Always Learning — Always Hacking Ethically ⚔️</em>
+</p>
