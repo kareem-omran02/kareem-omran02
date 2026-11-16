@@ -31,8 +31,8 @@
   </a>
 
    <!-- Option 2: Shields.io text badge -->
-  <a href="./Arbor-SE.png" target="_blank">
-    <img src="./Arbor-SE.png" alt="Badge name" height="120" />
+  <a href="./F5-CA.jpeg" target="_blank">
+    <img src="./F5-CA.jpeg" alt="Badge name" height="120" />
   </a>
 
   <!-- Copy one of the blocks above to add more badges -->
