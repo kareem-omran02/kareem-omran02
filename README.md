@@ -21,13 +21,18 @@
   <!-- Add your badges below. Each badge = one <a> + <img> block. -->
 
   <!-- Option 1: Credly / Accredible badge image (link to your verification page) -->
-  <a href="YOUR_BADGE_VERIFICATION_LINK" target="_blank">
-    <img src="YOUR_BADGE_IMAGE_URL" alt="Badge name" height="120" />
+  <a href="./Arbor-PES.png" target="_blank">
+    <img src="./Arbor-PES.png" alt="Badge name" height="120" />
   </a>
 
   <!-- Option 2: Shields.io text badge -->
-  <a href="YOUR_CERT_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/CERT_NAME-0A66C2?style=for-the-badge&logo=LOGO_NAME&logoColor=white" alt="Cert name" />
+  <a href="./Arbor-SE.png" target="_blank">
+    <img src="./Arbor-SE.png" alt="Badge name" height="120" />
+  </a>
+
+   <!-- Option 2: Shields.io text badge -->
+  <a href="./Arbor-SE.png" target="_blank">
+    <img src="./Arbor-SE.png" alt="Badge name" height="120" />
   </a>
 
   <!-- Copy one of the blocks above to add more badges -->
