@@ -38,27 +38,6 @@
   <!-- Copy one of the blocks above to add more badges -->
 </p>
 
-### 🤝 Connect & CTF Profiles  
-<p align="left">
-  <a href="https://www.hackthebox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
-  </a>
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  </a>
-  <a href="https://bugcrowd.com" target="_blank">
-    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  </a>
-  <a href="https://www.hackerone.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-  </a>
-  <a href="https://snyk.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  </a>
-  <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  </a>
-</p>
 
 ### 💻 Top Technical Skills  
 <p align="left">
